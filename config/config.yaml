@@ -83,8 +83,6 @@ platforms:
     name: "澎湃新闻"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "weibo"
-    name: "微博"
   - id: "douyin"
     name: "抖音"
   - id: "ifeng"
